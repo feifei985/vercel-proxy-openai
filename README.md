@@ -6,8 +6,8 @@
   - [要求](#要求)
   - [示例](#示例)
   - [部署](#部署)
-    - [代码参考](#代码参考)
   - [学习交流](#学习交流)
+    - [代码参考](#代码参考)
 
 ## 简介
 
@@ -222,12 +222,6 @@ fetch("https://YOUR DOMAIN（改成你的域名）/v1/chat/completions", request
 
 🎉接下来就可以愉快地使用 openai api 啦~
 
-### 代码参考
-
-(https://github.com/LinLin00000000/vercel-proxy-openai/issues)
-
-有问题可以 [在此](https://github.com/LinLin00000000/vercel-proxy-openai/issues) 留言
-
 
 ## 学习交流
 
@@ -235,3 +229,10 @@ fetch("https://YOUR DOMAIN（改成你的域名）/v1/chat/completions", request
   <img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/weixin/qun.JPG?raw=true" alt="PHP学习网" style="display: inline-block; width: 300px;">
   <img src="https://github.com/feifei985/NineAIdeploy/blob/main/assets/weixin/github-weixin.jpg?raw=true" alt="PHP学习网" style="display: inline-block; width: 300px;">
 </div>
+
+### 代码参考
+
+[代码来源](https://github.com/LinLin00000000/vercel-proxy-openai/issues)
+
+有问题可以 [在此](https://github.com/LinLin00000000/vercel-proxy-openai/issues) 留言
+
